@@ -1,0 +1,18 @@
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# Compiled Java files
+bin/
+*.class
+
+# Runtime data
+transactions.txt
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
