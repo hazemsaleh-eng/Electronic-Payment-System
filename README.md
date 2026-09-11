@@ -250,4 +250,13 @@ This project is an educational and portfolio project only.
 
 It does not connect to real payment gateways, banks, PayPal APIs, credit card processors, or electronic wallet services.
 
-No real financial transactions are performed.
+No real financial transactions are performed.## Screenshots
+
+### Main Menu
+![Main Menu](screenshots/main-menu.png)
+
+### Successful Payment
+![Successful Payment](screenshots/payment-success.png)
+
+### Transaction History
+![Transaction History](screenshots/transaction-history.png)
